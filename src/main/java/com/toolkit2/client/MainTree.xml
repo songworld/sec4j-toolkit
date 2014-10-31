@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<tree>
+	<node name="Engineering_Box"
+		homeClass="engi_network.xml">
+		<node name="Part_Master"
+			homeClass="bb.gui.eng.part.PartHomePage" />
+		<node name="BOM"
+			homeClass="bb.gui.eng.bom.BomHomePage" />
+		<node name="Part_Drawing"
+			homeClass="bb.gui.eng.drawing.DrawingHomePage" />
+		<node name="ECN"
+			homeClass="bb.gui.eng.ecn.EcnHomePage" />
+		<node name="ECR"
+			homeClass="bb.gui.eng.ecr.EcrHomePage" />
+		<node name="Design_Control"
+			homeClass="bb.gui.eng.dc.DesignControlHomePage" />
+		<node name="Detection_Standard"
+			homeClass="bb.gui.eng.trace.TraceHomePage" />
+		<node name="Material"
+			homeClass="bb.gui.eng.material.MaterialHomePage" />
+	</node>
+	<node name="Control_Panel"
+		homeClass="bb.gui.company.CompanySettingHomePage" >
+	</node>
+</tree>

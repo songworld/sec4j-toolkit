@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outlook>
+	<module text="常用工具箱" icon="/com/toolkit2/client/test/module_unselected.png" selected_icon="/com/toolkit2/client/test/module_selected.png" network="/com/toolkit2/client/network.xml">
+	</module>
+    <module text="调试工具" icon="/com/toolkit2/client/test/module_unselected.png" selected_icon="/com/toolkit2/client/test/module_selected.png" network="/com/toolkit2/client/network2.xml">
+	</module>
+</outlook>

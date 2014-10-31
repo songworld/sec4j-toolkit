@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menubar>
+	<menu text="开发功能">
+		<menu text="Web端开发功能">
+			<menuitem text="表结构管理" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="菜单管理" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+
+		<menu text="配置功能">
+			<menuitem text="系统信息配置" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="License配置" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="ViewAcl配置" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menuitem text="Add User" tooltip="Create a new user"
+			icon="/com/toolkit2/client/test/email.png" action="A001" />
+	</menu>
+
+	<menu text="调试功能">
+		<menu text="远程日志">
+			<menuitem text="操作日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="Web服务器日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="数据库日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="调试日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="日志分析" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menu text="本地日志">
+			<menuitem text="Web服务器日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="数据库日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="系统日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menuitem text="程序自身日志" tooltip="Create a new user"
+			icon="/com/toolkit2/client/test/email.png" action="A001" />
+	</menu>
+
+	<menu text="日志功能">
+		<menu text="远程日志">
+			<menuitem text="操作日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="Web服务器日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="数据库日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="调试日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="日志分析" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menu text="本地日志">
+			<menuitem text="Web服务器日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="数据库日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="系统日志" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menuitem text="程序自身日志" tooltip="Create a new user"
+			icon="/com/toolkit2/client/test/email.png" action="A001" />
+	</menu>
+
+	<menu text="Bug追踪">
+		<menu text="Bug仪表盘">
+			<menuitem text="Bug统计" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="每日新增" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="每日修复" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menu text="Bug管理">
+			<menuitem text="创建Bug" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="修复Bug" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+			<menuitem text="Bug列表" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001" />
+		</menu>
+		<menuitem text="查找" tooltip="Create a new user"
+			icon="/com/toolkit2/client/test/email.png" action="A001" />
+	</menu>
+
+	<menu text="关于">
+		<menuitem text="帮助" tooltip="This is a test report"
+				icon="/com/toolkit2/client/test/email.png" action="A001">
+			
+		</menuitem>
+		<menuitem text="关于" tooltip="Create a new user"
+			icon="/com/toolkit2/client/test/email.png" action="A001" />
+	</menu>
+	<logo image="/com/toolkit2/client/test/logo_company.png" tooltip="TOOLKIT Power" />
+</menubar>

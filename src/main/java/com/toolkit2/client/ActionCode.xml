@@ -1,0 +1,44 @@
+<actionCode>
+	<codeType id="Add">
+		<!-- Engineering Box -->
+		<module name="Engineering_Box">
+			<code
+				className="bb.gui.eng.part.PartHomePageAddPartPane"
+				description="engineering:PartHomePage.AddPart" id="EA01" />
+			
+		</module>
+	</codeType>
+	<codeType id="Search">
+		<module name="Purchasing_Box">
+			<code
+				className="bb.gui.pur.mrp.MrpHomePage$MrpHomeRunMrpPane"
+				description="2Run MRP" id="MRP" />
+		</module>
+	</codeType>
+	<codeType id="Detail">
+		<module name="Control_Panel">
+			<code
+				className="bb.gui.main.DashboardUI"
+				description="general:ActionCode.Dashboard" id="DASH" />
+		</module>
+		<module name="Control_Panel">
+			<code
+				className="bb.gui.company.homepage.CompanyHomepageUI"
+				description="general:ActionCode.HomePage" id="HOME" />
+		</module>
+	</codeType>
+	<codeType id="VKF8">
+		<module name="Control_Panel">
+			<!--<code
+				className="bb.gui.base.RunSqlConsoleUI"
+				description="general:RunSqlConsoleUI.RunSqlConsoleUI" id="VKF8" />
+		--></module>
+	</codeType>
+	<codeType id="Code">
+		<module name="2BizBox">
+			<code
+				className="bb.gui.company.QuickActionCodeAssistUI"
+				description="2Lookup Operate Code" id="CODE" />
+		</module>
+	</codeType>
+</actionCode>

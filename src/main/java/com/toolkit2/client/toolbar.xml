@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar>
+    <button tooltip="This is a tooltip of a button" icon="/com/toolkit2/client/test/viewer.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/com/toolkit2/client/test/chart.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/com/toolkit2/client/test/capture.png" action="B001" />
+	<separator/>
+     <button tooltip="调试" icon="/com/toolkit2/client/test/viewer.png" action="DEBUG" />
+	<separator/>
+</toolbar>

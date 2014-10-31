@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<network>
+	<node x="230" y="50" text="流程导航" network_text="流程导航r" tooltip="流程导航"
+		icon="/com/toolkit2/client/test/module.png" list_icon="/com/toolkit2/client/test/chart.png">
+		<button1 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<button2 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<button3 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+	</node>
+	<node x="30" y="50" text="调试分析工具" network_text="调试分析工具" tooltip="调试分析工具集合"
+		icon="/com/toolkit2/client/test/module.png" list_icon="/com/toolkit2/client/test/submodule.png">
+		<button1 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<button2 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<button3 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<shortcuts>
+			<separator text="常用工具" />
+			<shortcut text="Add a Part" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/submodule.png" action="Z010" />
+			<shortcut text="Delete a Part" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/submodule.png" action="Z010" />
+			<shortcut text="AP Aging Report" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/chart.png" action="Z010" />
+			<shortcut text="MRP for All Parts Used this Month" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/user.png" action="Z010" />
+			<shortcut text="Dashboard of this Month" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/email.png" action="Z010" />
+			<shortcut text="All Open Purchase Orders" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/chart.png" action="Z010" />
+			<shortcut text="Search in Address Book" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/user.png" action="Z010" />
+			<shortcut text="All Online Users" tooltip="This is a tooltip"
+				icon="/com/toolkit2/client/test/email.png" action="Z010" />
+		</shortcuts>
+	</node>
+
+	<node x="430" y="50" text="开发计划管理" network_text="显示开发计划以及功能进度" action="zc001"
+		tooltip="This is a tooltip of a node" icon="/com/toolkit2/client/test/module.png"
+		list_icon="/com/toolkit2/client/test/user.png">
+		<button1 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<button2 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+		<button3 tooltip="This is a tooltip of a button"
+			icon="/com/toolkit2/client/test/module_attachment.png" action="X002" />
+	</node>
+	
+
+	<arrow x="170" y="80" direction="left" rotation="0" />
+	
+</network>
